@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1E97-D939-4D7A-84B8-69D48F148A48}|C#_Assignment_3\\C#_Assignment_3.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\c#_assignment_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC1E97-D939-4D7A-84B8-69D48F148A48}|C#_Assignment_3\\C#_Assignment_3.csproj|solutionrelative:c#_assignment_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\oop_session_3_demo\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|solutionrelative:oop_session_3_demo\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1E97-D939-4D7A-84B8-69D48F148A48}|C#_Assignment_3\\C#_Assignment_3.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\c#_assignment_3\\reactangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC1E97-D939-4D7A-84B8-69D48F148A48}|C#_Assignment_3\\C#_Assignment_3.csproj|solutionrelative:c#_assignment_3\\reactangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1E97-D939-4D7A-84B8-69D48F148A48}|C#_Assignment_3\\C#_Assignment_3.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\c#_assignment_3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC1E97-D939-4D7A-84B8-69D48F148A48}|C#_Assignment_3\\C#_Assignment_3.csproj|solutionrelative:c#_assignment_3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1E97-D939-4D7A-84B8-69D48F148A48}|C#_Assignment_3\\C#_Assignment_3.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\c#_assignment_3\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC1E97-D939-4D7A-84B8-69D48F148A48}|C#_Assignment_3\\C#_Assignment_3.csproj|solutionrelative:c#_assignment_3\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1E97-D939-4D7A-84B8-69D48F148A48}|C#_Assignment_3\\C#_Assignment_3.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\c#_assignment_3\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC1E97-D939-4D7A-84B8-69D48F148A48}|C#_Assignment_3\\C#_Assignment_3.csproj|solutionrelative:c#_assignment_3\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1E97-D939-4D7A-84B8-69D48F148A48}|C#_Assignment_3\\C#_Assignment_3.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\c#_assignment_3\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC1E97-D939-4D7A-84B8-69D48F148A48}|C#_Assignment_3\\C#_Assignment_3.csproj|solutionrelative:c#_assignment_3\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\oop_session_3_demo\\binding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|solutionrelative:oop_session_3_demo\\binding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\oop_session_3_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|solutionrelative:oop_session_3_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\oop_session_3_demo\\oop_session_3_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|solutionrelative:oop_session_3_demo\\oop_session_3_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\oop_session_3_demo\\binding\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|solutionrelative:oop_session_3_demo\\binding\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\oop_session_3_demo\\binding\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|solutionrelative:oop_session_3_demo\\binding\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|e:\\asp.net\\assignments\\c#-assignment-02\\oop_session_3\\oop_session_3_demo\\binding\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F330EC92-A06E-4983-A04B-2C429EBC8DF0}|OOP_Session_3_demo\\OOP_Session_3_demo.csproj|solutionrelative:oop_session_3_demo\\binding\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reactangle.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\C#_Assignment_3\\Reactangle.cs",
+              "RelativeDocumentMoniker": "C#_Assignment_3\\Reactangle.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\C#_Assignment_3\\Reactangle.cs",
+              "RelativeToolTip": "C#_Assignment_3\\Reactangle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:51:11.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\C#_Assignment_3\\Circle.cs",
+              "RelativeDocumentMoniker": "C#_Assignment_3\\Circle.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\C#_Assignment_3\\Circle.cs",
+              "RelativeToolTip": "C#_Assignment_3\\Circle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:51:00.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICircle.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\C#_Assignment_3\\ICircle.cs",
+              "RelativeDocumentMoniker": "C#_Assignment_3\\ICircle.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\C#_Assignment_3\\ICircle.cs",
+              "RelativeToolTip": "C#_Assignment_3\\ICircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:28:45.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\C#_Assignment_3\\IShape.cs",
+              "RelativeDocumentMoniker": "C#_Assignment_3\\IShape.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\C#_Assignment_3\\IShape.cs",
+              "RelativeToolTip": "C#_Assignment_3\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:22:34.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRectangle.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\C#_Assignment_3\\IRectangle.cs",
+              "RelativeDocumentMoniker": "C#_Assignment_3\\IRectangle.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\C#_Assignment_3\\IRectangle.cs",
+              "RelativeToolTip": "C#_Assignment_3\\IRectangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:33:29.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\Interfaces\\IAnimal.cs",
+              "RelativeDocumentMoniker": "OOP_Session_3_demo\\Interfaces\\IAnimal.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\Interfaces\\IAnimal.cs",
+              "RelativeToolTip": "OOP_Session_3_demo\\Interfaces\\IAnimal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:50:42.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\C#_Assignment_3\\Program.cs",
+              "RelativeDocumentMoniker": "C#_Assignment_3\\Program.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\C#_Assignment_3\\Program.cs",
+              "RelativeToolTip": "C#_Assignment_3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:19:37.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\Binding\\Dog.cs",
+              "RelativeDocumentMoniker": "OOP_Session_3_demo\\Binding\\Dog.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\Binding\\Dog.cs",
+              "RelativeToolTip": "OOP_Session_3_demo\\Binding\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:53:00.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Session_3_demo\\Program.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\Program.cs",
+              "RelativeToolTip": "OOP_Session_3_demo\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:41:44.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParttimeEmployee.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\Binding\\ParttimeEmployee.cs",
+              "RelativeDocumentMoniker": "OOP_Session_3_demo\\Binding\\ParttimeEmployee.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\Binding\\ParttimeEmployee.cs",
+              "RelativeToolTip": "OOP_Session_3_demo\\Binding\\ParttimeEmployee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:54:36.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FulltimeEmployee.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\Binding\\FulltimeEmployee.cs",
+              "RelativeDocumentMoniker": "OOP_Session_3_demo\\Binding\\FulltimeEmployee.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\Binding\\FulltimeEmployee.cs",
+              "RelativeToolTip": "OOP_Session_3_demo\\Binding\\FulltimeEmployee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:12:39.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\Binding\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP_Session_3_demo\\Binding\\Employee.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\Binding\\Employee.cs",
+              "RelativeToolTip": "OOP_Session_3_demo\\Binding\\Employee.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:05:12.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OOP_Session_3_demo.csproj",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\OOP_Session_3_demo.csproj",
+              "RelativeDocumentMoniker": "OOP_Session_3_demo\\OOP_Session_3_demo.csproj",
+              "ToolTip": "E:\\asp.net\\Assignments\\c#-Assignment-02\\OOP_session_3\\OOP_Session_3_demo\\OOP_Session_3_demo.csproj",
+              "RelativeToolTip": "OOP_Session_3_demo\\OOP_Session_3_demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T09:43:14.294Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\bin\Debug\net8.0\C#_Assignment_3.exe
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\bin\Debug\net8.0\C#_Assignment_3.deps.json
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\bin\Debug\net8.0\C#_Assignment_3.runtimeconfig.json
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\bin\Debug\net8.0\C#_Assignment_3.dll
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\bin\Debug\net8.0\C#_Assignment_3.pdb
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\obj\Debug\net8.0\C#_Assignment_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\obj\Debug\net8.0\C#_Assignment_3.AssemblyInfoInputs.cache
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\obj\Debug\net8.0\C#_Assignment_3.AssemblyInfo.cs
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\obj\Debug\net8.0\C#_Assignment_3.csproj.CoreCompileInputs.cache
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\obj\Debug\net8.0\C#_Assignment_3.dll
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\obj\Debug\net8.0\refint\C#_Assignment_3.dll
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\obj\Debug\net8.0\C#_Assignment_3.pdb
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\obj\Debug\net8.0\C#_Assignment_3.genruntimeconfig.cache
+E:\asp.net\Assignments\c#-Assignment-02\OOP_session_3\C#_Assignment_3\obj\Debug\net8.0\ref\C#_Assignment_3.dll
